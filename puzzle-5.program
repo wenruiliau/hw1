@@ -1,0 +1,18 @@
+function ColorProcedure {
+	if (getcolor == blue) {
+		down
+		right
+		right
+	}
+	if (getcolor == red) {
+		up
+		right
+		right
+	}
+}
+right
+right
+ColorProcedure
+ColorProcedure
+ColorProcedure
+right

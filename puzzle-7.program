@@ -1,0 +1,24 @@
+while (getcolor != red) {
+	down
+}
+right
+right
+while (getcolor != red) {
+	up
+}
+right
+right
+while (getcolor != red) {
+	down
+}
+right
+right
+while (getcolor != red) {
+	up
+}
+right
+right
+while (getcolor != red) {
+	down
+}
+right

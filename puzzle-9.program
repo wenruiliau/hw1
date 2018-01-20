@@ -1,0 +1,37 @@
+function DrawDown {
+	count = 9
+	while (count > 0) {
+		setcolor(BLUE)
+		down
+		count = count - 1
+	}
+}
+function DrawRight {
+	count = 9
+	while (count > 0) {
+		setcolor(BLUE)
+		right
+		count = count - 1
+	}
+}
+function DrawUp {
+	count = 9
+	while (count > 0) {
+		setcolor(BLUE)
+		up
+		count = count - 1
+	}
+}
+function DrawLeft {
+	count = 9
+	while (count > 0) {
+		setcolor(BLUE)
+		left
+		count = count - 1
+	}
+}
+
+DrawDown
+DrawRight
+DrawUp
+DrawLeft

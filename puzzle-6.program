@@ -1,0 +1,23 @@
+right
+if (getcolor == red) {
+	up
+	up
+	up
+	if (getcolor == red) {
+		left
+		up
+	}
+	if (getcolor == blue) {
+		right
+		up
+	}
+}
+if (getcolor == blue) {
+	down
+	down
+	down
+	if (getcolor == red) {
+		left
+		down
+	}
+}

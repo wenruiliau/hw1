@@ -1,0 +1,27 @@
+function down8 {
+	var count = 8
+	while (count > 0) {
+	down
+	count = count - 1
+}
+function up7 {
+	var count = 7
+	while (count > 0) {
+	up
+	count = count - 1
+}
+
+down8
+right
+right
+up7
+right
+right
+down8
+right
+right
+up7
+right
+right
+down8
+right

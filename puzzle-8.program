@@ -4,6 +4,14 @@ function down8 {
 	down
 	count = count - 1
 }
+
+function down7 {
+	var count = 7
+	while (count > 0) {
+	down
+	count = count - 1
+}
+
 function up7 {
 	var count = 7
 	while (count > 0) {
@@ -17,11 +25,11 @@ right
 up7
 right
 right
-down8
+down7
 right
 right
 up7
 right
 right
-down8
+down7
 right
